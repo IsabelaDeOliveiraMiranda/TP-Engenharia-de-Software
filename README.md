@@ -28,6 +28,9 @@ Aplicativo para celular (Android/iOS) com:
 - Responder rápido (menos de 2 segundos)
 - Interface simples e intuitiva
 - Armazenar dados de forma segura
+  
+## Planejamento do Projeto
+[Planejamento do Projeto](https://github.com/users/IsabelaDeOliveiraMiranda/projects/4)
 
 ## Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](docs/casos-de-uso.png)

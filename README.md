@@ -29,5 +29,5 @@ Aplicativo para celular (Android/iOS) com:
 - Interface simples e intuitiva
 - Armazenar dados de forma segura
 
-## 5. Diagrama de Caso de Uso
+## Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](docs/casos-de-uso.png)

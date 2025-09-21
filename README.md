@@ -30,4 +30,4 @@ Aplicativo para celular (Android/iOS) com:
 - Armazenar dados de forma segura
 
 ## Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](docs/casos-de-uso.png)
+![Diagrama de Caso de Uso](docs/casos de uso.png)

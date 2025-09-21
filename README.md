@@ -1,7 +1,7 @@
 # App Lembrete de Medicamentos
 
 ## Objetivo
-Desenvolver um aplicativo para dispositivos móveis que auxilie usuários a lembrar de tomar seus medicamentos nos horários corretos, contribuindo para o **ODS 3 – Saúde e Bem-Estar**.  
+Desenvolver um aplicativo para dispositivos móveis que auxilie usuários a lembrar de tomar seus medicamentos nos horários corretos, contribuindo para a **ODS 3 – Saúde e Bem-Estar**.  
 O sistema busca melhorar a adesão a tratamentos e, consequentemente, a qualidade de vida dos usuários.
 
 ## Problema

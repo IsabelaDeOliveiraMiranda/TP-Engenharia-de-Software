@@ -17,17 +17,17 @@ Aplicativo para celular (Android/iOS) com:
 - 
 ## Requisitos
 ### Funcionais:
-- **RF01**: Cadastrar medicamento (nome, dose, horário)
-- **RF02**: Listar medicamentos cadastrados
-- **RF03**: Editar ou excluir medicamento
-- **RF04**: Enviar lembrete no horário definido
-- **RF05**: Registrar dose como tomada
+- Cadastrar medicamento (nome, dose, horário)
+- Listar medicamentos cadastrados
+- Editar ou excluir medicamento
+- Enviar lembrete no horário definido
+- Registrar dose como tomada
 
 ### Não Funcionais:
-- **RNF01**: Funcionar offline
-- **RNF02**: Responder rápido (menos de 2 segundos)
-- **RNF03**: Interface simples e intuitiva
-- **RNF04**: Armazenar dados de forma segura
+- Funcionar offline
+- Responder rápido (menos de 2 segundos)
+- Interface simples e intuitiva
+- Armazenar dados de forma segura
 
 ## 5. Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](docs/casos-de-uso.png)

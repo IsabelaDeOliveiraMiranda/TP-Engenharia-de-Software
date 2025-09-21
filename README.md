@@ -14,7 +14,7 @@ Aplicativo para celular (Android/iOS) com:
 - Definição de horários
 - Notificações de lembrete
 - Registro de doses tomadas
-- 
+  
 ## Requisitos
 ### Funcionais:
 - Cadastrar medicamento (nome, dose, horário)

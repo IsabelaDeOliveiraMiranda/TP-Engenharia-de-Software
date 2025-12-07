@@ -102,3 +102,14 @@ Passos:
 - Registrar uma dose às 10:00 (hoje).
 - Navegar para a tela "Histórico".
 Resultado Esperado: A dose das 14:00 (a mais recente) deve aparecer no topo da lista, antes da dose das 10:00.
+
+## CU-07: Sistema de Notificações e Horários
+**CT-07.01:** Cadastro com Agendamento
+- **Ação:** Cadastrar medicamento definindo horário para 1 minuto à frente.
+- **Resultado Esperado:** O medicamento é salvo no banco e o agendamento é registrado no celular.
+- **Status:** Aprovado.
+
+**CT-07.02:** Recebimento de Notificação
+- **Ação:** Aguardar o horário definido.
+- **Resultado Esperado:** O celular exibe notificação "Hora do Remédio!" mesmo com app em segundo plano.
+- **Status:** Aprovado.

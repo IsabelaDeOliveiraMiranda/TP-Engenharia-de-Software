@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, FlatList, ActivityIndicator, Alert } from 'reac
 import { useFocusEffect } from 'expo-router';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'http://localhost:3000'; 
 
 type RegistroHistorico = {
   id: number;
